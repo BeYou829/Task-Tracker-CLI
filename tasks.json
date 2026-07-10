@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "Description": "Primera tarea",
+    "Status": 0,
+    "CreatedAt": "2026-07-08T19:42:22.1193384-04:00",
+    "UpdatedAt": "2026-07-10T16:44:07.0187169-04:00"
+  },
+  {
+    "Id": 2,
+    "Description": "quinta tarea",
+    "Status": 0,
+    "CreatedAt": "2026-07-08T19:42:22.1235906-04:00",
+    "UpdatedAt": null
+  },
+  {
+    "Id": 3,
+    "Description": "prueba 3",
+    "Status": 0,
+    "CreatedAt": "2026-07-08T19:42:22.1236666-04:00",
+    "UpdatedAt": null
+  },
+  {
+    "Id": 4,
+    "Description": "prueba 4",
+    "Status": 1,
+    "CreatedAt": "2026-07-08T19:42:22.1236983-04:00",
+    "UpdatedAt": null
+  },
+  {
+    "Id": 6,
+    "Description": "prueba 6",
+    "Status": 1,
+    "CreatedAt": "2026-07-08T20:52:06.0279315-04:00",
+    "UpdatedAt": null
+  },
+  {
+    "Id": 7,
+    "Description": "Septima tarea",
+    "Status": 1,
+    "CreatedAt": "2026-07-08T20:52:22.4285243-04:00",
+    "UpdatedAt": "2026-07-10T16:46:54.8261595-04:00"
+  },
+  {
+    "Id": 8,
+    "Description": "prueba 8",
+    "Status": 0,
+    "CreatedAt": "2026-07-08T20:55:05.8698241-04:00",
+    "UpdatedAt": null
+  },
+  {
+    "Id": 9,
+    "Description": "prueba 9",
+    "Status": 0,
+    "CreatedAt": "2026-07-08T22:08:45.626634-04:00",
+    "UpdatedAt": null
+  },
+  {
+    "Id": 10,
+    "Description": "Hola mundo",
+    "Status": 0,
+    "CreatedAt": "2026-07-10T16:13:17.4221953-04:00",
+    "UpdatedAt": null
+  },
+  {
+    "Id": 11,
+    "Description": "Hola mundo2222",
+    "Status": 0,
+    "CreatedAt": "2026-07-10T16:14:38.6005767-04:00",
+    "UpdatedAt": null
+  }
+]

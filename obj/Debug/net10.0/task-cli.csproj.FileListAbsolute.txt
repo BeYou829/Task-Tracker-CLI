@@ -1,0 +1,14 @@
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\task-cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\task-cli.AssemblyInfoInputs.cache
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\task-cli.AssemblyInfo.cs
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\task-cli.csproj.CoreCompileInputs.cache
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\bin\Debug\net10.0\task-cli.exe
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\bin\Debug\net10.0\task-cli.deps.json
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\bin\Debug\net10.0\task-cli.runtimeconfig.json
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\bin\Debug\net10.0\task-cli.dll
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\bin\Debug\net10.0\task-cli.pdb
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\task-cli.dll
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\refint\task-cli.dll
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\task-cli.pdb
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\task-cli.genruntimeconfig.cache
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\ref\task-cli.dll
