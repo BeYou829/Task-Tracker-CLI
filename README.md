@@ -95,9 +95,12 @@ dotnet run list done
 
 ## Estructura
 
+```text
 task-cli
+├── Models
+│   ├── TaskTodo.cs
+│   └── Status.cs
 ├── Program.cs
-├── TaskTodo.cs
-├── Status.cs
 ├── tasks.json
 └── README.md
+```

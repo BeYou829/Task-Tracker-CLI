@@ -12,3 +12,4 @@ C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\ne
 C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\task-cli.pdb
 C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\task-cli.genruntimeconfig.cache
 C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\ref\task-cli.dll
+C:\Users\engel\Desktop\Coding\Roadmap\Task Tracker\Backend\task-cli\obj\Debug\net10.0\task-cli.sourcelink.json
