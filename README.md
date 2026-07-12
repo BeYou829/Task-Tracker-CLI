@@ -88,11 +88,10 @@ dotnet run list done
 
 ## Output
 
-| ID  | Description | Status | Created At          | Updated At           |
-| --- | ----------- | ------ | ------------------- | -------------------- |
-| 1   | Buy Milk    | todo   | 7/8/2026 7:42:22 PM | 7/10/2026 4:44:07 PM |
-|     |             |        |                     |                      |
-|     |             |        |                     |                      |
+| ID  | Description  | Status | Created At          | Updated At           |
+| --- | ------------ | ------ | ------------------- | -------------------- |
+| 1   | Buy Milk     | todo   | 7/8/2026 7:42:22 PM | 7/10/2026 4:44:07 PM |
+| 2   | Purchase PS5 | todo   | 7/8/2026 7:46:19 PM |                      |
 
 ## Estructura
 
