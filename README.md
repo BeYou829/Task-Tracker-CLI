@@ -104,3 +104,7 @@ task-cli
 ├── tasks.json
 └── README.md
 ```
+
+## Idea de proyecto
+
+[text](https://roadmap.sh/projects/task-tracker)
