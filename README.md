@@ -44,15 +44,15 @@ dotnet run
 
 ## Cómo usarlo
 
-| Comandos                   | Descripción        |
-| -------------------------- | ------------------ | ------ | -------------------- |
-| add "nombre_tarea"         | Create a task      |
-| update "id" "nombre_tarea" | Update description |
-| delete "id"                | Delete task        |
-| mark-in-progress "id"      | Change status      |
-| mark-done "id"             | Change status      |
-| list                       | Show tasks         |
-| list "todo"                | "in-progress"      | "done" | Show tasks by status |
+| Comandos                             | Descripción          |
+| ------------------------------------ | -------------------- |
+| add "nombre_tarea"                   | Create a task        |
+| update "id" "nombre_tarea"           | Update description   |
+| delete "id"                          | Delete task          |
+| mark-in-progress "id"                | Change status        |
+| mark-done "id"                       | Change status        |
+| list                                 | Show tasks           |
+| list "todo" / "in-progress" / "done" | Show tasks by status |
 
 ## Ejemplos
 
@@ -96,7 +96,6 @@ dotnet run list done
 ## Estructura
 
 task-cli
-│
 ├── Program.cs
 ├── TaskTodo.cs
 ├── Status.cs
